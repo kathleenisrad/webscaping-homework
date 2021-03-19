@@ -5,8 +5,6 @@ Questions? Comments?:
 3. Reach out to the data team on Slack and share your thoughts!
 --->
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Web Scraping with Beautiful Soup Lab
-
 <!--- Unit and sequence information. This template is an instructor-facing description for a given activity or lab. --->
 
 In this lab, you will use `BeautifulSoup` to scrape [https://pages.git.generalassemb.ly/rldaggie/for-scraping/](https://pages.git.generalassemb.ly/rldaggie/for-scraping/) and create a DataFrame of food items from every restaurant. Your DataFrame should look something like this:
@@ -20,15 +18,6 @@ In this lab, you will use `BeautifulSoup` to scrape [https://pages.git.generalas
 
 
 **Note**: Your DataFrame should have just over 5,000 rows.
-
----
-
-## Materials We Provide
-<!--- This section is a table of contents for the activity. The table structure breaks down repo resources into types, distinguishing between  notebooks and supporting materials. Note that the table below demonstrates the total possible range of materials; most lessons won't require all of the categories below. Also note that every item in the repo should get its own line and link, like the example shown for data. --->
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lab |  Web Scraping Jupyter Notebook | [Link](./starter-code.ipynb)|
 
 ---
 
